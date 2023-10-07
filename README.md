@@ -4,9 +4,9 @@
   <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="100"/>
 </div>
 
-<div id="badges" style="text-align: center;">
+<div id="badges" style="text-align: center;" align="center">
    <a href="https://www.linkedin.com/in/prakathi/" target="_blank">
-    <img src="https://static.vecteezy.com/system/resources/previews/018/910/724/original/linkedin-logo-linkedin-symbol-linkedin-icon-free-free-vector.jpg" alt="LinkedIn Icon" width="10">
+    <img src="https://static.vecteezy.com/system/resources/previews/018/910/724/original/linkedin-logo-linkedin-symbol-linkedin-icon-free-free-vector.jpg" alt="LinkedIn Icon" width="20">
   </a>
   <a href="mailto:pravi@scu.edu">
     ✉️
