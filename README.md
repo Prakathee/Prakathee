@@ -39,7 +39,7 @@ But it's not just about the technical skills. Collaboration, storytelling, adapt
 
 <hr>
 
-<h3> Technical Skills align="center"</h3>
+<h3 style="text-align: center;">Technical Skills</h3>
 
 **Programming Languages**: Python, R, My-SQL (SSMS, Databricks, Redshift & Mongo DB), C++, C, Java
 **Analytics**: Data Mining, Machine Learning, Data Visualization, Data Engineering, Predictive Analytics, Statistical Analysis (AB Testing)
