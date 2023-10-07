@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
 
-    <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://github.com/Prakathee/Prakathee/assets/120286262/93dab7f4-501c-40d6-bc19-55f75e77a342](https://giphy.com/gifs/Giflytics-gif-jazminantoinette-giflytics-xT9C25UNTwfZuk85WP)" width="100"/>
+    <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="100"/>
 
 </div>
 
