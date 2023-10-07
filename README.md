@@ -61,8 +61,8 @@ But it's not just about the technical skills. Collaboration, storytelling, adapt
      1. Emotion Classification using Transfer Learning
   </a>
 
-   <a href="https://github.com/Prakathee/Emotion-Classification-Using-Transfer-Learning-" target="_blank">
-     2. Emotion Classification using Transfer Learning
+   <a href="https://github.com/Prakathee/Fashion_Image_using_Generative_Adversarial_Networks-GAN-/tree/main" target="_blank">
+     2. Generative Adversial Network (GAN) - Fashion Image Generation
   </a>
 </div>
 
