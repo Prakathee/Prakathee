@@ -75,6 +75,31 @@ But it's not just about the technical skills. Collaboration, storytelling, adapt
    <a href="https://github.com/Prakathee/Attrition_Analysis" target="_blank">
      4. Attrition Analysis
   </a>
+  
+<br>
+   <a href="https://github.com/Prakathee/Airbnb_Data_Analysis" target="_blank">
+     5. AirBnb Data Analysis
+  </a>
+
+<br>
+   <a href="https://github.com/Prakathee/Prediction_On_HousePrice" target="_blank">
+     6. Prediction on House Price
+  </a>
+
+<br>
+   <a href="https://github.com/Prakathee/Google_Playstore_Analysis" target="_blank">
+     7. Google Playstore Analysis
+  </a>
+
+<br>
+   <a href="https://github.com/Prakathee/Analysis_On_Walmart_Sales" target="_blank">
+     8. Analysis on Walmart Sales
+  </a>
+
+<br>
+   <a href="https://github.com/Prakathee/Credit-Score-Classification" target="_blank">
+     9. Cresit Score Classification
+  </a>
 </div>
 
 
