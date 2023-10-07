@@ -66,29 +66,35 @@ But it's not just about the technical skills. Collaboration, storytelling, adapt
      2. Generative Adversial Network (GAN) - Fashion Image Generation
   </a>
 
+  
+
 <br>
-   <a href="https://github.com/Prakathee/Manpower_Planning" target="_blank">
-     3. Manpower Planning
+
+<a href="https://github.com/Prakathee/Credit-Score-Classification" target="_blank">
+     3. Credit Score Classification
+  </a>
+
+  <br>
+
+  <a href="https://github.com/Prakathee/Prediction_On_HousePrice" target="_blank">
+     4. Prediction on House Price (Decision Trees and Random Forest )
   </a>
 
 <br>
+   
    <a href="https://github.com/Prakathee/Attrition_Analysis" target="_blank">
-     4. Attrition Analysis
+     5. Attrition Analysis
   </a>
   
 <br>
    <a href="https://github.com/Prakathee/Airbnb_Data_Analysis" target="_blank">
-     5. AirBnb Data Analysis
+     6. AirBnb Data Analysis
   </a>
 
 <br>
-   <a href="https://github.com/Prakathee/Prediction_On_HousePrice" target="_blank">
-     6. Prediction on House Price
-  </a>
-
-<br>
+   
    <a href="https://github.com/Prakathee/Google_Playstore_Analysis" target="_blank">
-     7. Google Playstore Analysis
+     7. Google Playstore Analysis (Data Visualization and Machine Learning)
   </a>
 
 <br>
@@ -97,8 +103,8 @@ But it's not just about the technical skills. Collaboration, storytelling, adapt
   </a>
 
 <br>
-   <a href="https://github.com/Prakathee/Credit-Score-Classification" target="_blank">
-     9. Credit Score Classification
+   <a href="https://github.com/Prakathee/Manpower_Planning" target="_blank">
+     9. Manpower Planning
   </a>
 
 <br>
