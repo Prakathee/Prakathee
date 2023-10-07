@@ -95,7 +95,6 @@ But it's not just about the technical skills. Collaboration, storytelling, adapt
      7. Tableau Case Study Optimizing Customer Acquistion
   </a>
 
-<br>
   
 <br>
    <a href="https://github.com/Prakathee/Airbnb_Data_Analysis" target="_blank">
