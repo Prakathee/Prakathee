@@ -6,7 +6,7 @@
 
 <div id="badges" style="text-align: center;">
    <a href="https://www.linkedin.com/in/prakathi/" target="_blank">
-    <img src="https://example.com/linkedin-icon.png" alt="LinkedIn Icon" width="30"/>
+    <img src="https://static.vecteezy.com/system/resources/previews/018/910/724/original/linkedin-logo-linkedin-symbol-linkedin-icon-free-free-vector.jpg" alt="LinkedIn Icon">
   </a>
   <a href="mailto:pravi@scu.edu">
     ✉️
