@@ -56,3 +56,6 @@ But it's not just about the technical skills. Collaboration, storytelling, adapt
 
 ### 💻 My Projects
 
+<a href="https://github.com/Prakathee/Emotion-Classification-Using-Transfer-Learning-">Emotion Classification using Transfer Learning</a>
+
+
