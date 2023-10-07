@@ -45,7 +45,10 @@ But it's not just about the technical skills. Collaboration, storytelling, adapt
 
 
 **Programming Languages**: Python, R, My-SQL (SSMS, Databricks, Redshift & Mongo DB), C++, C, Java
+
 **Analytics**: Data Mining, Machine Learning, Data Visualization, Data Engineering, Predictive Analytics, Statistical Analysis (AB Testing)
+
 **Tools/Framework**: Tableau, AWS, PowerBI (DAX), Jupyter Notebook, R Studio, Azure, Hadoop, Scala, Excel, Flask, Postman, API’s
+
 **Libraries** – TensorFlow, NumPy, Pandas, Scikit-Learn, NLTK, Keras, Matplotlib, Seaborn, PyTest, PySpark, Amazon Athena, Dash, GAN
 
