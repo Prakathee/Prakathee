@@ -5,8 +5,8 @@
 </div>
 
 <div id="badges" style="text-align: center;">
-   <a href="https://www.linkedin.com/in/prakathi/">
-    <img src="![image](https://github.com/Prakathee/Prakathee/assets/120286262/1c22fc3e-f525-4cc3-befd-50b12baefdd8)&logo=linkedin&logoColor=white" alt="LinkedIn Logo"/>
+   <a href="https://www.linkedin.com/in/prakathi/" target="_blank">
+    <img src="https://example.com/linkedin-icon.png" alt="LinkedIn Icon" width="30"/>
   </a>
   <a href="mailto:pravi@scu.edu">
     ✉️
