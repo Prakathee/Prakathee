@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+https://i.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.webp
 <div id="header" >
     <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="100" alt="Centered Image"/>
 </div>
