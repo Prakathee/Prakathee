@@ -66,12 +66,15 @@ But it's not just about the technical skills. Collaboration, storytelling, adapt
      2. Generative Adversial Network (GAN) - Fashion Image Generation
   </a>
 
-  <br>
-  
+<br>
    <a href="https://github.com/Prakathee/Manpower_Planning" target="_blank">
      3. Manpower Planning
   </a>
-  
+
+<br>
+   <a href="https://github.com/Prakathee/Attrition_Analysis" target="_blank">
+     4. Attrition Analysis
+  </a>
 </div>
 
 
