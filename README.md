@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-![image](https://github.com/Prakathee/Prakathee/assets/120286262/4b24d396-faae-4473-99d9-a3f8bf60aabe)
-
-<div id="header" >
-    <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="100" alt="Centered Image"/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 <!--
