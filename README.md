@@ -98,7 +98,42 @@ But it's not just about the technical skills. Collaboration, storytelling, adapt
 
 <br>
    <a href="https://github.com/Prakathee/Credit-Score-Classification" target="_blank">
-     9. Cresit Score Classification
+     9. Credit Score Classification
+  </a>
+
+<br>
+   <a href="https://github.com/Prakathee/Power-BI-Case-Study-Analysis-on-Online-Perfume-and-Cosmetic-Sales" target="_blank">
+     10. Power-BI-Case-Study-Analysis-on-Online-Perfume-and-Cosmetic-Sales
+  </a>
+
+<br>
+   <a href="https://github.com/Prakathee/R-Case-Study-Understanding-Customer-Behaviour" target="_blank">
+     11. R-Case-Study-Understanding-Customer-Behaviour
+  </a>
+
+<br>
+   <a href="https://github.com/Prakathee/Diabetes-Prediction-Using-Machine-Learning" target="_blank">
+     12. Diabetes-Prediction-Using-Machine-Learning
+  </a>
+
+<br>
+   <a href="https://github.com/Prakathee/Comparitive-Study-of-Machiene-Learning-Models-on-Sales-Prediction" target="_blank">
+     13. Comparitive-Study-of-Machiene-Learning-Models-on-Sales-Prediction
+  </a>
+
+<br>
+   <a href="https://github.com/Prakathee/Twitter-Sentiment-Analysis" target="_blank">
+     14. Twitter-Sentiment-Analysis
+  </a>
+
+<br>
+   <a href="https://github.com/Prakathee/Tableau-Case-Study-Optimizing-Customer-Acquistion" target="_blank">
+     15. Tableau-Case-Study-Optimizing-Customer-Acquistion
+  </a>
+
+<br>
+   <a href="https://github.com/Prakathee/Dark-Series-Power-BI-Report" target="_blank">
+     16. Dark-Series-Power-BI-Report
   </a>
 </div>
 
