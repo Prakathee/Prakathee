@@ -67,9 +67,11 @@ But it's not just about the technical skills. Collaboration, storytelling, adapt
   </a>
 
   <br>
+  
    <a href="https://github.com/Prakathee/Manpower_Planning" target="_blank">
      3. Manpower Planning
   </a>
+  
 </div>
 
 
