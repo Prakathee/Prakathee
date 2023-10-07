@@ -52,3 +52,7 @@ But it's not just about the technical skills. Collaboration, storytelling, adapt
 
 **Libraries** – TensorFlow, NumPy, Pandas, Scikit-Learn, NLTK, Keras, Matplotlib, Seaborn, PyTest, PySpark, Amazon Athena, Dash, GAN
 
+<hr>
+
+### :woman_technologist: My Projects
+
