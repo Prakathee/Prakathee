@@ -85,62 +85,66 @@ But it's not just about the technical skills. Collaboration, storytelling, adapt
    <a href="https://github.com/Prakathee/Attrition_Analysis" target="_blank">
      5. Attrition Analysis
   </a>
+
+  <a href="https://github.com/Prakathee/Twitter-Sentiment-Analysis" target="_blank">
+     6. Twitter Sentiment Analysis (NLP and Sentiment Analysis)
+  </a>
+
+<br>
+   <a href="https://github.com/Prakathee/Tableau-Case-Study-Optimizing-Customer-Acquistion" target="_blank">
+     7. Tableau Case Study Optimizing Customer Acquistion
+  </a>
+
+<br>
   
 <br>
    <a href="https://github.com/Prakathee/Airbnb_Data_Analysis" target="_blank">
-     6. AirBnb Data Analysis
+     8. AirBnb Data Analysis
   </a>
 
 <br>
    
    <a href="https://github.com/Prakathee/Google_Playstore_Analysis" target="_blank">
-     7. Google Playstore Analysis (Data Visualization and Machine Learning)
+     9. Google Playstore Analysis (Data Visualization and Machine Learning)
   </a>
 
 <br>
    <a href="https://github.com/Prakathee/Analysis_On_Walmart_Sales" target="_blank">
-     8. Analysis on Walmart Sales
+     10. Analysis on Walmart Sales
   </a>
 
 <br>
    <a href="https://github.com/Prakathee/Manpower_Planning" target="_blank">
-     9. Manpower Planning
+     11. Manpower Planning
   </a>
 
 <br>
    <a href="https://github.com/Prakathee/Power-BI-Case-Study-Analysis-on-Online-Perfume-and-Cosmetic-Sales" target="_blank">
-     10. Power BI Case Study Analysis on Online Perfume and Cosmetic Sales
+     12. Power BI Case Study Analysis on Online Perfume and Cosmetic Sales
   </a>
 
 <br>
    <a href="https://github.com/Prakathee/R-Case-Study-Understanding-Customer-Behaviour" target="_blank">
-     11. R Case Study Understanding Customer Behaviour
+     13. R Case Study Understanding Customer Behaviour
   </a>
 
 <br>
    <a href="https://github.com/Prakathee/Diabetes-Prediction-Using-Machine-Learning" target="_blank">
-     12. Diabetes Prediction Using Machine Learning
+     14. Diabetes Prediction Using Machine Learning
   </a>
 
 <br>
    <a href="https://github.com/Prakathee/Comparitive-Study-of-Machiene-Learning-Models-on-Sales-Prediction" target="_blank">
-     13. Comparitive Study of Machiene Learning Models on Sales Prediction
+     15. Comparitive Study of Machiene Learning Models on Sales Prediction
   </a>
 
 <br>
-   <a href="https://github.com/Prakathee/Twitter-Sentiment-Analysis" target="_blank">
-     14. Twitter Sentiment Analysis
-  </a>
-
-<br>
-   <a href="https://github.com/Prakathee/Tableau-Case-Study-Optimizing-Customer-Acquistion" target="_blank">
-     15. Tableau Case Study Optimizing Customer Acquistion
-  </a>
-
-<br>
+   
    <a href="https://github.com/Prakathee/Dark-Series-Power-BI-Report" target="_blank">
      16. Dark Series Power BI Report
   </a>
 </div>
+
+<hr>
 
 
