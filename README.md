@@ -1,5 +1,9 @@
 ### Hi there 👋
-![image](https://github.com/Prakathee/Prakathee/assets/120286262/93dab7f4-501c-40d6-bc19-55f75e77a342)
+
+<div id="header" align="center">
+    ![image]([https://github.com/Prakathee/Prakathee/assets/120286262/93dab7f4-501c-40d6-bc19-55f75e77a342](https://giphy.com/gifs/Giflytics-gif-jazminantoinette-giflytics-xT9C25UNTwfZuk85WP))
+
+</div>
 
 <!--
 **Prakathee/Prakathee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
