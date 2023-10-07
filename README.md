@@ -54,5 +54,5 @@ But it's not just about the technical skills. Collaboration, storytelling, adapt
 
 <hr>
 
-### :woman_technologist: My Projects
+### :female_engineer:: My Projects
 
