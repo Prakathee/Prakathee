@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div id="header" style="text-align: center;">
+<div id="header" >
     <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="100" alt="Centered Image"/>
 </div>
 
