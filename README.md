@@ -35,3 +35,6 @@ Deep learning? Oh, I've dived into the depths with Long Short Term Memory, surfe
 And then there's NLP—Natural Language Processing. Word2Vec, TF-IDF, N-grams, LDA Topic Modeling, Spacy, and Gensim—they're my allies in the realm of language.
 
 But it's not just about the technical skills. Collaboration, storytelling, adaptability, leadership, and problem-solving are the compass points that guide me. These key competencies ensure that my data-driven journeys are not solitary endeavors but collaborative adventures, and that the insights I uncover are not just numbers but stories waiting to be told.
+
+
+--
