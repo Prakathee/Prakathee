@@ -147,4 +147,17 @@ But it's not just about the technical skills. Collaboration, storytelling, adapt
 
 <hr>
 
+### ✍️ Blogs
+
+<div>
+
+<a href="https://medium.com/p/e157a613c428" target="_blank">
+     Data Analysis Project: Exploring the Factors Behind Employee Attrition. Why do workers Quit?
+  </a>
+<br>
+  <a href="https://medium.com/@prakathi/predicting-employee-attrition-comparing-logistic-regression-and-decision-tree-models-b76748b36ed4" target="_blank">
+     Predicting Employee Attrition: Comparing Logistic Regression and Decision Tree Models
+  </a>
+  
+</div>
 
