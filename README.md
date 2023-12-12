@@ -18,7 +18,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### 👩‍💻: About Me :
+### 👩‍💻 About Me:
 
 In the world of data-driven problem-solving, I find my true calling. It's not just about numbers; it's about the stories they tell and the solutions they unveil. I'm passionate about delving into data, dissecting it, and crafting strategies that enhance efficiency and drive decisions that matter.
 
